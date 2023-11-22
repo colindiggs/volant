@@ -14,3 +14,5 @@ She is most often depicted as a young girl with light blue skin and white hair. 
 - Follow your goals and seek your own destiny.
 - Keep to the shadows, avoiding the blazing light of zealous good, and the utter darkness of evil.
 - Seek new horizons and new experiences, and let nothing tie you down.
+
+#Diety #PrimeDiety

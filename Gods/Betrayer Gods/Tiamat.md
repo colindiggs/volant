@@ -14,3 +14,5 @@ Tiamat is depicted as a massive, five-headed dragon, with each head a different 
 - Hoard wealth, acquiring much and spending little. Wealth is its own reward.
 - Forgive no slight and leave no wrong unpunished.
 - Take what you desire from others. Those who lack the strength to defend their possessions are not worthy to own them.
+
+#Diety #BetrayerGod

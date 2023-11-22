@@ -25,3 +25,5 @@
 ###### Actions
 
 ***Talons***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+
+#Monster

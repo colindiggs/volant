@@ -15,3 +15,5 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
+
+#Spell

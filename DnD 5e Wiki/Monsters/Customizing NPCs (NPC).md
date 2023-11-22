@@ -9,3 +9,5 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 ***Armor and Weapon Swaps***. You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC's challenge rating.
 
 ***Magic Items***. The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
+
+#Monster

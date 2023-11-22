@@ -33,3 +33,5 @@ When you cast this spell, you can specify individuals that are unaffected by any
 The whole warded area radiates magic. A *dispel magic* cast on a specific effect, if successful, removes only that effect.
 
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
+
+#Spell

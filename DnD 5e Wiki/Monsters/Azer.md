@@ -33,3 +33,5 @@
 ###### Actions
 
 ***Warhammer***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) bludgeoning damage, or 8 (1d10+3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+
+#Monster

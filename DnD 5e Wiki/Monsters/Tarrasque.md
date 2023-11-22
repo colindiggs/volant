@@ -59,3 +59,5 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 **Move**. The tarrasque moves up to half its speed.
 
 **Chomp (Costs 2 Actions)**. The tarrasque makes one bite attack or uses its Swallow.
+
+#Monster

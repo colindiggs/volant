@@ -41,3 +41,5 @@ After you use your breath weapon, you can't use it again until you complete a sh
 ***Damage Resistance***. You have resistance to the damage type associated with your draconic ancestry.
 
 ***Languages***. You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+
+#Race #CharacterCreation 

@@ -33,3 +33,5 @@
 ***Talons***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) slashing damage.
 
 A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
+
+#Monster

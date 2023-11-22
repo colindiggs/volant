@@ -27,3 +27,5 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 ###### Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage plus 7 (2d6) poison damage.
+
+#Monster

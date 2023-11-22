@@ -17,3 +17,5 @@ The target must make a Wisdom saving throw. On a failed save, it pursues the cou
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.
 
 If you or any of your companions damage the target, the spell ends.
+
+#Spell

@@ -14,3 +14,5 @@ Corellon is commonly depicted as an impossibly graceful and beautiful elven bein
 - Cultivate beauty in all that you do, whether you’re casting a spell, composing a saga, strumming a lute, or practicing the arts of war.
 - Seek out lost magic items, forgotten rituals, and ancient works of art. Corellon might have inspired them in the world’s first days.
 - Thwart the followers of Lolth at every opportunity.
+
+#Diety #PrimeDiety

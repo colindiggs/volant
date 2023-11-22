@@ -17,3 +17,5 @@ The simulacrum is friendly to you and creatures you designate. It obeys your spo
 If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per hit point it regains. The simulacrum lasts until it drops to 0 hit points, at which point it reverts to snow and melts instantly.
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
+
+#Spell

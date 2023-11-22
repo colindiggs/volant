@@ -60,3 +60,5 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Sailing ship | 10,000 gp | 2 mph  |
 | Warship      | 25,000 gp | 2½ mph |
 |              |           |        |
+
+#Rules #Equipment

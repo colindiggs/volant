@@ -123,3 +123,5 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 | 19th  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |       |     |     |     |     |     |     |     |     |     |
+
+#Rules #CharacterCreation

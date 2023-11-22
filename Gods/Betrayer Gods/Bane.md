@@ -14,3 +14,5 @@ A dark reflection of the honorable warrior, the Strife Emperor is often depicted
 - Never allow your fear to gain mastery over you, but drive it into the hearts of your foes.
 - Punish insubordination and disorder.
 - Hone your combat skills to perfection, whether you are a mighty general or a lone mercenary.
+
+#Diety #BetrayerGod

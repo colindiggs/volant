@@ -14,3 +14,5 @@ Pelor wears a white cloak over an intricate golden plate armor. Where a head wou
 - Alleviate suffering wherever you find it.
 - Bring Pelor’s light into places of darkness, showing kindness, mercy, and compassion.
 - Be watchful against evil.
+
+#Diety #PrimeDiety

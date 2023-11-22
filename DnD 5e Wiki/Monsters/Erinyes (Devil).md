@@ -41,3 +41,5 @@
 ###### Reactions
 
 ***Parry***. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+
+#Monster

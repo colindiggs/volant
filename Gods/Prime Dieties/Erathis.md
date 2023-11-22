@@ -14,3 +14,5 @@ The Lawbearer is shown as a hooded, armored woman sitting atop a throne or a thr
 - Work with others to achieve your goals. Community and order are always stronger than the disjointed efforts of lone individuals.
 - Tame the wilderness to make it fit for habitation, and defend the light of civilization against the encroaching darkness.
 - Seek out new ideas, new inventions, new lands to inhabit, new wilderness to conquer. Build machines, build cities, build empires.
+
+#Diety #PrimeDiety

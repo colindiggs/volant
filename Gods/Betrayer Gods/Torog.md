@@ -15,3 +15,5 @@ Associated Creatures: Drow, Illithids, Duregar
 - Seek out and revere the deep places beneath the earth.
 - Delight in the giving of pain, and consider pain you receive as homage to Torog.
 - Bind tightly what is in your charge, and restrain those who wander free.
+
+#Diety #BetrayerGod

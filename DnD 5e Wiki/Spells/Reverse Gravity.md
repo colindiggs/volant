@@ -15,3 +15,5 @@ This spell reverses gravity in a 50-foot radius, 100-foot high cylinder centered
 If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.
 
 At the end of the duration, affected objects and creatures fall back down.
+
+#Spell

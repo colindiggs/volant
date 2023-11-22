@@ -15,3 +15,5 @@ Avandra is usually depicted as a dark-skinned young woman with light brown hair 
 - Strike back at those who would rob you of your freedom, and urge others to fight for their own liberty.
 - Change is inevitable, but it takes the work of the faithful to ensure that change is for the better.
 
+#Diety #PrimeDiety
+

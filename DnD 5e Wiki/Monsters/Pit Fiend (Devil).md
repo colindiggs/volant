@@ -49,3 +49,5 @@ At will: *detect magic*, *fireball*
 ***Mace***. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) bludgeoning damage plus 21 (6d6) fire damage.
 
 ***Tail***. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
+
+#Monster

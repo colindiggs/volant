@@ -43,3 +43,5 @@ At will: *druidcraft*
 Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
 
 The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+
+#Monster

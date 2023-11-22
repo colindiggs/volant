@@ -29,3 +29,5 @@
 ###### Actions
 
 ***Bites***. *Melee Weapon Attack:* +2 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+
+#Monster

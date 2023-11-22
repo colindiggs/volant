@@ -17,3 +17,5 @@ When he later appeared in incorporeal form, he was wearing beautiful, crushed ve
 - Never reveal all that you know.
 - Find the seed of darkness in your heart and nourish it; find it in others and exploit it to your advantage.
 - Oppose the followers of all other deities so that Vecna alone can rule the world.
+
+#Diety #BetrayerGod

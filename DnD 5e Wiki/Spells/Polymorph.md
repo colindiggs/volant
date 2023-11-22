@@ -19,3 +19,5 @@ The target assumes the hit points of its new form. When it reverts to its normal
 The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+#Spell

@@ -45,3 +45,5 @@
 ###### Reactions
 
 ***Parry***. The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
+
+#Monster

@@ -23,3 +23,5 @@
 ###### Actions
 
 ***Gore***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) bludgeoning damage.
+
+#Monster

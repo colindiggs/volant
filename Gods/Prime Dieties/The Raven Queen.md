@@ -14,3 +14,5 @@ When she was alive, the Raven Queen was described as a beautiful woman with rave
 - Hold no pity for those who suffer and die, for death is the natural end of life.
 - Bring down the proud who try to cast off the chains of fate. As the instrument of the Raven Queen, you must punish hubris where you find it.
 - Watch for the cults of Orcus and stamp them out whenever they arise. The Demon Prince of the Undead seeks to claim the Raven Queen’s throne.
+
+#Diety #PrimeDiety

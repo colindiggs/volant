@@ -63,3 +63,5 @@ Each type of poison has its own debilitating effects.
 ***Truth Serum (Ingested)***. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a *zone of truth* spell.
 
 ***Wyvern Poison (Injury)***. This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+
+#Rules #Conditions

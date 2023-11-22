@@ -17,3 +17,5 @@ The extradimensional space can be reached by climbing to the top of the rope. Th
 Attacks and spells can't cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5-foot window centered on the rope.
 
 Anything inside the extradimensional space drops out when the spell ends.
+
+#Spell

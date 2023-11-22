@@ -14,3 +14,5 @@ Tharizdun is depicted, if at all, as "a creature of rolling, hungry ink and dark
 - Channel power to the Chained God, so he can break his chains.
 - Retrieve lost relics and shrines to the Chained God.
 - Pursue the obliteration of the world, in anticipation of the Chained God’s liberation.
+
+#Diety #BetrayerGod

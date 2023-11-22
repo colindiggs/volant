@@ -16,3 +16,5 @@ In her realm in the Abyss, the Dreadnest, she presents herself as a drider-like 
 - Do whatever it takes to gain and hold power.
 - Rely on stealth and slander in preference to outright confrontation.
 - Seek the death of Elves at every opportunity.
+
+#Diety #BetrayerGod

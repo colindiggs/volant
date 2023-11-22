@@ -21,3 +21,5 @@ As a rule of thumb, a task that can be measured in minutes requires a payment wo
 After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you, if appropriate to the task and if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
+
+#Spell

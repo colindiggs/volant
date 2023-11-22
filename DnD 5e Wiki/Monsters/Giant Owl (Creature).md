@@ -29,3 +29,5 @@
 ***Talons***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6+1) slashing damage.
 
 **Giant owls** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
+
+#Monster

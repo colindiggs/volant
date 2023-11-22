@@ -63,3 +63,5 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 **Channel Negative Energy (Costs 2 Actions)**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
 
 **Whirlwind of Sand (Costs 2 Actions)**. The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+
+#Monster

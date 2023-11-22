@@ -25,3 +25,5 @@
 ###### Actions
 
 ***Hooves***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) bludgeoning damage.
+
+#Monster

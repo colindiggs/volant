@@ -27,3 +27,5 @@
 ***Stomp***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one prone creature. *Hit:* 29 (4d10+7) bludgeoning damage.
 
 A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
+
+#Monster

@@ -15,3 +15,5 @@ It's hard to make generalizations about humans, but your human character has the
 ***Speed***. Your base walking speed is 30 feet.
 
 ***Languages***. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+#Race #CharacterCreation 

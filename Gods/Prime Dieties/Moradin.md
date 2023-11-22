@@ -14,3 +14,5 @@ By his worshipers he is depicted as a faceless, stout dwarf-like being of immens
 - Meet adversity with stoicism and tenacity.
 - Demonstrate loyalty to your family, your clan, your leaders, and your people.
 - Strive to make a mark on the world, a lasting legacy. To make something that lasts is the highest good, whether you are a smith working at a forge or a ruler building a dynasty.
+
+#Diety #PrimeDiety

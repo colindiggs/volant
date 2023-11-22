@@ -45,3 +45,5 @@
 >Web Walker. The swarm ignores movement restrictions caused by webbing.
 >
 >**Swarm of Wasps**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
+
+#Monster

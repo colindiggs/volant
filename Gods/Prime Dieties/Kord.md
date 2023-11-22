@@ -14,3 +14,5 @@ An iron statue  depicts Kord as a human-like man, barrel-chested and with massiv
 - Be strong, but do not use your strength for wanton destruction.
 - Be brave and scorn cowardice in any form.
 - Prove your might in battle to win glory and renown.
+
+#Diety #PrimeDiety

@@ -29,3 +29,5 @@
 ***Bite***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10+6) piercing damage.
 
 A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
+
+#Monster

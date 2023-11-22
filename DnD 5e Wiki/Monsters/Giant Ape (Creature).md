@@ -27,3 +27,5 @@
 ***Fist***. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (3d10+6) bludgeoning damage.
 
 ***Rock***. *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6+6) bludgeoning damage.
+
+#Monster

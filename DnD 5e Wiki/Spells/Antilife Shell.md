@@ -15,3 +15,5 @@ A shimmering barrier extends out from you in a 10-foot radius and moves with you
 The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+
+#Spell

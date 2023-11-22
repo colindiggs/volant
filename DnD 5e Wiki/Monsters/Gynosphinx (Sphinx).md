@@ -54,3 +54,5 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 **Teleport (Costs 2 Actions)**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
 **Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+
+#Monster

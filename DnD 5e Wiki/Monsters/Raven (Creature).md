@@ -25,3 +25,5 @@
 ###### Actions
 
 ***Beak***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+
+#Monster

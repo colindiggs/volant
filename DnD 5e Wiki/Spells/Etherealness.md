@@ -21,3 +21,5 @@ When the spell ends, you immediately return to the plane you originated from in 
 This spell has no effect if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
+
+#Spell

@@ -29,3 +29,5 @@
 ###### Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6+4) piercing damage.
+
+#Monster

@@ -59,3 +59,5 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack**. The dragon makes a tail attack.
 
 **Wing Attack (Costs 2 Actions)**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+#Monster

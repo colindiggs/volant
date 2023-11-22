@@ -262,3 +262,6 @@ The creature is aware of this effect before it makes its attack against you.
 >**Druids and the Gods**
 >
 >Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
+
+
+#Rules #CharacterCreation #Classes

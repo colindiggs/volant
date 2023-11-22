@@ -15,3 +15,5 @@ Melora is depicted as a beautiful woman with green or deep brown skin with a str
 - Protect the wild places of the world from destruction and overuse. Oppose the rampant spread of cities and empires.
 - Hunt aberrant monsters and other abominations of nature.
 - Do not fear or condemn the savagery of nature. Live in harmony with the wild.
+
+#Diety #PrimeDiety

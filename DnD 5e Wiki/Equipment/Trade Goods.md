@@ -22,3 +22,5 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 | 50 gp  | 1 lb. of gold                                |
 | 500 gp | 1 lb. of platinum                            |
 |        |                                              |
+
+#Rules #Equipment

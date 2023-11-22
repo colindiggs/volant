@@ -34,3 +34,6 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 | 265,000                    | 18    | +6          |
 | 305,000                    | 19    | +6          |
 | 355,000                    | 20    | +6          |
+
+
+#Rules #CharacterCreation

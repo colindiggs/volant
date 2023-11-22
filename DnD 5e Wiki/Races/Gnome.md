@@ -37,3 +37,5 @@ When you create a device, choose one of the following options:
 ***Fire Starter***. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 
 ***Music Box***. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
+
+#Race #CharacterCreation 

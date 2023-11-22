@@ -14,3 +14,5 @@ Once a celestial, Asmodeus is depicted in many tomes and murals as a handsome hu
 - Seek power over others, that you might rule with strength as the Lord of Hell does.
 - Repay evil with evil. If others are kind to you, exploit their weakness for your own gain.
 - Show neither pity nor mercy to those who are caught underfoot as you climb your way to power. The weak do not deserve compassion.
+
+#Diety #BetrayerGod

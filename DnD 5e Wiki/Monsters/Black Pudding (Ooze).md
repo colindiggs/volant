@@ -37,3 +37,5 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 ###### Reactions
 
 ***Split***. When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
+
+#Monster

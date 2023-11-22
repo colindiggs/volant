@@ -21,3 +21,5 @@ Your half-elf character has some qualities in common with elves and some that ar
 ***Skill Versatility***. You gain proficiency in two skills of your choice.
 
 ***Languages***. You can speak, read, and write Common, Elvish, and one extra language of your choice.
+
+#Race #CharacterCreation 

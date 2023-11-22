@@ -31,3 +31,5 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 ***Ability Score Increase***. Your Charisma score increases by 1.
 
 ***Naturally Stealthy***. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+
+#Race #CharacterCreation 

@@ -92,3 +92,5 @@ The time it takes to don or doff armor depends on the armor's category.
 | Heavy Armor  | 10 minutes | 5 minutes |
 | Shield       | 1 action   | 1 action  |
 |              |            |           |
+
+#Rules #Equipment

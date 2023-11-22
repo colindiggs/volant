@@ -223,3 +223,5 @@ The starting equipment you get from your class includes a collection of useful a
 |                  |                                        |
 
 \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
+
+#Rules #Equipment

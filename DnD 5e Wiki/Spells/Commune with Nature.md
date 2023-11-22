@@ -21,3 +21,5 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 - buildings
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
+
+#Spell

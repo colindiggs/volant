@@ -106,3 +106,6 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
 | Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
 |                            |       |                 |         |                                                        |
+
+
+#Rules #Equipment

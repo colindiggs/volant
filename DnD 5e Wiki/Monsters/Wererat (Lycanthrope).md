@@ -35,3 +35,5 @@
 ***Shortsword (Humanoid or Hybrid Form Only)***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
 ***Hand Crossbow (Humanoid or Hybrid Form Only)***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+#Monster

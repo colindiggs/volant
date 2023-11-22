@@ -25,3 +25,5 @@
 ###### Actions
 
 ***Claw***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
+
+#Monster

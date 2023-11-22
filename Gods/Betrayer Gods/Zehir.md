@@ -14,3 +14,5 @@ Many depictions of him can be found in his long forgotten and abandoned temples.
 - Hide under the cloak of night, that your deeds might be kept in secret.
 - Kill in Zehir’s name, and offer each murder as a sacrifice.
 - Delight in poison, and surround yourself with snakes.
+
+#Diety #BetrayerGod

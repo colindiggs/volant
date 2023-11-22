@@ -17,3 +17,5 @@ Each creature obeys your verbal commands, and in combat, they act on your turn e
 A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.
 
 The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
+
+#Spell

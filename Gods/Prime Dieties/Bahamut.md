@@ -14,3 +14,5 @@ While mortals generally use silver dragons to represent Bahamut (since their sca
 - Uphold the highest ideals of honor and justice
 - Be constantly vigilant against evil and oppose it on all fronts.
 - Protect the weak, liberate the oppressed, and defend just order.
+
+#Diety #PrimeDiety

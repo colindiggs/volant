@@ -1,5 +1,4 @@
 # Barbarian
-
 ### Class Features
 
 As a barbarian, you gain the following class features.
@@ -157,3 +156,5 @@ If the creature succeeds on its saving throw, you can't use this feature on that
 #### Retaliation
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+
+#Rules #CharacterCreation #Classes

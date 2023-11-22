@@ -15,3 +15,5 @@ Brilliant sunlight flashes in a 60-foot radius centered on a point you choose wi
 A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
 
 This spell dispels any darkness in its area that was created by a spell.
+
+#Spell

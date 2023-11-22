@@ -17,3 +17,5 @@ To you and any creatures you designate when you cast the spell, the writing appe
 Should the spell be dispelled, the original script and the illusion both disappear.
 
 A creature with truesight can read the hidden message.
+
+#Spell

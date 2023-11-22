@@ -66,3 +66,5 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 ***Poisoner's Kit***. A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
 ***Thieves' Tools***. This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+
+#Rules #Equipment

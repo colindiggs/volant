@@ -14,3 +14,5 @@ The Ruiner's primitive, usually clay, representations can be found in his worshi
 - Conquer and destroy.
 - Let your strength crush the weak.
 - Do as you will, and let no one stop you.
+
+#Diety #BetrayerGod

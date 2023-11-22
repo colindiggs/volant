@@ -17,3 +17,5 @@ If you cast this spell using 1 action, choose a point within range. All normal p
 You can exclude one or more areas of any size within the spell's area from being affected.
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
+
+#Spell

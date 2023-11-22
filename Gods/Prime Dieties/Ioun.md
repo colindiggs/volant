@@ -14,3 +14,5 @@ Ioun's avatar appears as an older woman with long, wavy silver hair. Her olive s
 - Seek the perfection of your mind by bringing reason, perception, and emotion into balance with one another.
 - Accumulate, preserve, and distribute knowledge in all forms. Pursue education, build libraries, and seek out lost and ancient lore.
 - Be watchful at all times for the followers of Vecna, who seek to control knowledge and keep secrets. Oppose their schemes, unmask their secrets, and blind them with the light of truth and reason.
+
+#Diety #PrimeDiety

@@ -39,3 +39,5 @@ At will: *detect magic*, *fog cloud*, *light*
 ***Morningstar***. *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 21 (3d8+8) piercing damage.
 
 ***Rock***. *Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:* 30 (4d10+8) bludgeoning damage.
+
+#Monster

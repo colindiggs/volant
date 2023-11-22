@@ -73,3 +73,5 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 **Unarmed Strike**. The vampire makes one unarmed strike.
 
 **Bite (Costs 2 Actions)**. The vampire makes one bite attack.
+
+#Monster
