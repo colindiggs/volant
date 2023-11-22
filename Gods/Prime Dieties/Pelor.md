@@ -10,3 +10,11 @@ Pelor, the Dawnfather, is the god of the sun and agriculture, and is generally w
 - Bring Pelor’s light into places of darkness, showing kindness, mercy, and compassion.
     
 - Be watchful against evil.
+### Divine Focus
+---
+
+### Appearance
+------
+
+### Tenants of Faith
+---
