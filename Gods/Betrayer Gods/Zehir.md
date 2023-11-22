@@ -8,10 +8,9 @@ Symbol: Snake in the shape of a dagger
 Associated Creatures: Yuan-Ti, snakes
 ### Appearance
 ------
-
+Many depictions of him can be found in his long forgotten and abandoned temples. He takes the form of a man's body with a half-dozen arms and a gargantuan fanged serpent head, with strands of thick, dark hair sprouting from his scaled body that swirl around to form layers of shadow, obscuring his entire form.
 ### Tenants of Faith
 ---
-
 - Hide under the cloak of night, that your deeds might be kept in secret.
 - Kill in Zehir’s name, and offer each murder as a sacrifice.
 - Delight in poison, and surround yourself with snakes.
