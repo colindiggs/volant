@@ -14,3 +14,5 @@ If you aren't a dwarf, you gain the following additional benefits while wearing 
 - You have advantage on saving throws against poison, and you have resistance against poison damage.
 - You have darkvision out to a range of 60 feet.
 - You can speak, read, and write Dwarvish.
+
+#Treasure

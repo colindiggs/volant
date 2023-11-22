@@ -7,3 +7,5 @@ While wearing this ring, you can speak its command word as an action to summon a
 While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
+
+#Treasure

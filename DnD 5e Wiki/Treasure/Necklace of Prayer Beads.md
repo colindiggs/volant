@@ -17,3 +17,5 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 | 19    | Summons      | Planar ally                                   |
 | 20    | Wind walking | Wind walk                                     |
 |       |              |                                               |
+
+#Treasure

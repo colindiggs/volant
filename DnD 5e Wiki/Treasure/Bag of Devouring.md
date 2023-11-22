@@ -9,3 +9,5 @@ The extradimensional creature attached to the bag can sense whatever is placed i
 Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
+
+#Treasure

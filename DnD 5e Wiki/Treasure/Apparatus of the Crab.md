@@ -35,3 +35,5 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 9     | The apparatus sinks as much as 20 feet in liquid.                                                                                | The apparatus rises up to 20 feet in liquid.                                                                                                |
 | 10    | The rear hatch unseals and opens.                                                                                                | The rear hatch closes and seals.                                                                                                            |
 |       |                                                                                                                                  |                                                                                                                                             |
+
+#Treasure

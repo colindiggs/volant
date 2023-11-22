@@ -13,3 +13,5 @@ This gem contains a mote of elemental energy. When you use an action to break th
 | Red corundum   | Fire elemental     |
 | Emerald        | Water elemental    |
 |                |                    |
+
+#Treasure

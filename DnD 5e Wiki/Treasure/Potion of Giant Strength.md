@@ -16,3 +16,5 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 | Cloud giant       | 27       | Very rare |
 | Storm giant       | 29       | Legendary |
 |                   |          |           |
+
+#Treasure

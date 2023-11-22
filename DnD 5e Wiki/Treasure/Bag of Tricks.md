@@ -51,3 +51,5 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 7  | Giant hyena  |
 | 8  | Tiger        |
 |    |              |
+
+#Treasure

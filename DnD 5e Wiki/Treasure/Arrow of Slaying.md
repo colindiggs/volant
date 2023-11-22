@@ -7,3 +7,5 @@ An *arrow of slaying* is a magic weapon meant to slay a particular kind of creat
 Once an *arrow of slaying* deals its extra damage to a creature, it becomes a nonmagical arrow.
 
 Other types of magic ammunition of this kind exist, such as *bolts of slaying* meant for a crossbow, though arrows are most common.
+
+#Treasure

@@ -93,3 +93,5 @@ A sentient item has a will of its own, shaped by its personality and alignment. 
 - Attempt to take control of its wielder.
 
 If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12+the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+
+#Treasure

@@ -13,3 +13,5 @@ You regain hit points when you drink this potion. The number of hit points depen
 | Superior healing | Rare      | 8d4+8       |
 | Supreme healing  | Very rare | 10d4+20     |
 |                  |           |             |
+
+#Treasure

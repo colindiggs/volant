@@ -32,3 +32,5 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 | Prismatic spray  | 1d20         |
 | Wall of fire     | 1d4          |
 |                  |              |
+
+#Treasure

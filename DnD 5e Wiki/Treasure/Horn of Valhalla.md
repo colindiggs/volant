@@ -17,3 +17,5 @@ Four types of *horn of Valhalla* are known to exist, each made of a different me
 |       |           |                     |                                      |
 
 If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
+
+#Treasure

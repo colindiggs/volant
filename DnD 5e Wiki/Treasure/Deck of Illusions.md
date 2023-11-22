@@ -48,3 +48,5 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | Two of clubs      | Kobold                           |
 | Jokers (2)        | You (the deck's owner)           |
 |                   |                                  |
+
+#Treasure

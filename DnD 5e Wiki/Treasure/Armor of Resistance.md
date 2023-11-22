@@ -19,3 +19,5 @@ You have resistance to one type of damage while you wear this armor. The GM choo
 | 9   | Radiant     |
 | 10  | Thunder     |
 |     |             |
+
+#Treasure

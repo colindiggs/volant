@@ -33,3 +33,5 @@ An *identify* spell reveals that a creature is inside the flask, but the only wa
 | 97‒99 | Succubus/incubus  |
 | 100   | Xorn              |
 |       |                   |
+
+#Treasure

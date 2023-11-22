@@ -29,3 +29,5 @@ You can also use an action to cast the *detect magic* spell from the orb without
 ***Call Dragons***. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 
 ***Destroying an Orb***. An *Orb of Dragonkind* appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A *disintegrate* spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
+
+#Treasure

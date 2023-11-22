@@ -9,3 +9,5 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 - The third command word expends 5 charges and causes the gem to flare with blinding light in a 30-foot cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
 
 When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 gp.
+
+#Treasure

@@ -32,3 +32,5 @@ In addition, the robe has 4d4 other patches. The GM chooses the patches or deter
 | 91-96  | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
 | 97-100 | Portable ram                                                                                                                                                                                      |
 |        |                                                                                                                                                                                                   |
+
+#Treasure

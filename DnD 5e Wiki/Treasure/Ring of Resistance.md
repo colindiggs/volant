@@ -19,3 +19,5 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 | 9   | Radiant     | Topaz      |
 | 10  | Thunder     | Spinel     |
 |     |             |            |
+
+#Treasure

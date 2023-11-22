@@ -23,3 +23,5 @@ Additionally, you can focus your senses as an action to magically discern the di
 | Silver | Cold       |
 | White  | Cold       |
 |        |            |
+
+#Treasure

@@ -37,3 +37,5 @@ If you help slay a water elemental while attuned to the ring, you gain access to
 
 - You can breathe underwater and have a swimming speed equal to your walking speed.
 - You can cast the following spells from the ring, expending the necessary number of charges: *create or destroy water* (1 charge), *control water* (3 charges), *ice storm* (2 charges), or *wall of ice* (3 charges).
+
+#Treasure

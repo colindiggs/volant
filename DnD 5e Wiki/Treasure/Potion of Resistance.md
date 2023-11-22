@@ -19,3 +19,5 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 | 9   | Radiant     |
 | 10  | Thunder     |
 |     |             |
+
+#Treasure

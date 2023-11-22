@@ -16,3 +16,5 @@ Six varieties of this belt exist, corresponding with and having rarity according
 | Cloud giant       | 27       | Legendary |
 | Storm giant       | 29       | Legendary |
 |                   |          |           |
+
+#Treasure
