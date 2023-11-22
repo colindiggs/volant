@@ -1,4 +1,5 @@
 **Bane, the Strife Emperor** is the evil diety of war and conquest. His followers accept his call to conflict, seeking lesser people to break and subjugate. Warmongering nations and many goblinoid tribes worship him as they conquer the world. The Strife Emperor twists all living things to his iron will, even forcing nature itself to bow to his whims. Bane is also known as the creator of the Curse of strife.
+![[Bane_symbol_TCSR.webp]]
 ### Divine Focus
 ---
 Alignment: Lawful evil
