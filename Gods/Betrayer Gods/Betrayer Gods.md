@@ -1,0 +1,1 @@
+The name given to the 9 deities who battled and failed against the [[Prime Deities]]
