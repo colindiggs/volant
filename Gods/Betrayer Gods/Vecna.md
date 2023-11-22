@@ -1,6 +1,6 @@
 
 Vecna, also known as **the Whispered One, the Undying King, and the Lord of the Rotted Tower**, was a powerful, mortal-born archlich who achieved godhood. Vecna is the evil god of undead, necromancy, and secrets. He rules that which is not meant to be known and that which people wish to keep secret. Evil spellcasters and conspirators pay him homage. 
-![[Vecna_-_Claudio_Pozas.webp]]
+![[Vecna.png]]
 ### Divine Focus
 ---
 Alignment: Neutral evil

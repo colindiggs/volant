@@ -1,5 +1,5 @@
-Ioun, the Knowing Mistress, also known as the Knowing Mentor is the goddess of knowledge, prophecy, and skill. She opposes Vecna, who deals in dark secrets and hidden knowledge. Ioun is the god of knowledge, skill, and prophecy. Sages, seers, and tacticians revere her, as do all who live by their knowledge and mental power. Corellon is the patron of arcane magic, but Ioun is the patron of its study. Libraries and wizard academies are built in her name. Her commands are also teachings:
-![[Kno.webp]]
+Ioun, the Knowing Mistress, also known as the Knowing Mentor is the goddess of knowledge, prophecy, and skill. She opposes Vecna, who deals in dark secrets and hidden knowledge. Ioun is the god of knowledge, skill, and prophecy. Sages, seers, and tacticians revere her, as do all who live by their knowledge and mental power. Corellon is the patron of arcane magic, but Ioun is the patron of its study. Libraries and wizard academies are built in her name. 
+![[Ioun.png]]
 ### Divine Focus
 ---
 Alignment: Neutral

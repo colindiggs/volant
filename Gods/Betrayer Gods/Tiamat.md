@@ -1,5 +1,5 @@
-Tiamat, the Scaled Tyrant, is the evil queen of dragons. She is a fearsome god of greed, envy, and hoarded wealth, and the patron of most chromatic dragons. She is the sworn enemy of [[Bahamut]]. Tiamat is the evil god of wealth, greed, and envy. She is the patron of chromatic Dragons and those whose lust for wealth overrides any other goal or concern. She commands her followers to:
-![[Tiamat.webp]]
+Tiamat, the Scaled Tyrant, is the evil queen of dragons. She is a fearsome god of greed, envy, and hoarded wealth, and the patron of most chromatic dragons. She is the sworn enemy of [[Bahamut]]. Tiamat is the evil god of wealth, greed, and envy. She is the patron of chromatic Dragons and those whose lust for wealth overrides any other goal or concern. 
+![[Tiamat.png]]
 ### Divine Focus
 ---
 Alignment: Lawful evil

@@ -1,5 +1,5 @@
-The **Raven Queen, the Matron of Death** is the ancient goddess of death. She is so old and mysterious that her true name has long been lost. Her patrons seek her favor to guide them in death and prevent the curse of undeath from falling on them. The name of the god of death is long forgotten, but she is called the Raven Queen. She is the spinner of fate and the patron of winter. She marks the end of each mortal life and mourners call upon her during funeral rites, in the hope that she will guard the departed from the curse of undeath. She expects her followers to abide by these commandments:
-![[Raven.webp]]
+The **Raven Queen, the Matron of Death** is the ancient goddess of death. She is so old and mysterious that her true name has long been lost. Her patrons seek her favor to guide them in death and prevent the curse of undeath from falling on them. The name of the god of death is long forgotten, but she is called the Raven Queen. She is the spinner of fate and the patron of winter. She marks the end of each mortal life and mourners call upon her during funeral rites, in the hope that she will guard the departed from the curse of undeath. 
+![[Raven.png]]
 ### Divine Focus
 ---
 Alignment: Lawful neutral

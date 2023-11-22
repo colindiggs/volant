@@ -1,5 +1,5 @@
-**Melora, the Wildmother** is the goddess of wilderness and the sea. She watches over nature, good harvest, grants protection from washing away in storms, and guides the passage of ships. Melora is the god of the wilderness and the sea. She is both the wild beast and the peaceful forest, the raging whirlpool and the quiet desert. Rangers, hunters, and Elves revere her, and sailors make offerings to her before beginning their voyages. Her strictures are these:
-![[W.webp]]
+**Melora, the Wildmother** is the goddess of wilderness and the sea. She watches over nature, good harvest, grants protection from washing away in storms, and guides the passage of ships. Melora is the god of the wilderness and the sea. She is both the wild beast and the peaceful forest, the raging whirlpool and the quiet desert. Rangers, hunters, and Elves revere her, and sailors make offerings to her before beginning their voyages. 
+![[Wildmother.png]]
 
 ### Divine Focus
 ---

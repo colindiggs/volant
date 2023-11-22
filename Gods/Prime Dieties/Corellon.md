@@ -1,5 +1,5 @@
-Corellon, The Archeart is the deity of arcane magic and the fey. The god of spring, beauty, and the arts, Corellon is the patron of arcane magic and the fey. He seeded the world with arcane magic and planted the most ancient forests. Artists and musicians worship him, as do those who view their spellcasting as an art, and his shrines can be found throughout the Feywild. He despises Lolth and her priestesses for leading the Drow astray. He urges his followers thus:
-![[Archeart.webp]]
+Corellon, The Archeart is the deity of arcane magic and the fey. The god of spring, beauty, and the arts, Corellon is the patron of arcane magic and the fey. He seeded the world with arcane magic and planted the most ancient forests. Artists and musicians worship him, as do those who view their spellcasting as an art, and his shrines can be found throughout the Feywild. He despises Lolth and her priestesses for leading the Drow astray. 
+![[Archeart.png]]
 ### Divine Focus
 ---
 Alignment: Chaotic Good

@@ -1,5 +1,5 @@
-**Moradin, The Allhammer** (or All-Hammer) is the lawful good deity of craft, creation, family, and legacy. The Allhammer is patron of craftsmen, blacksmiths, forgemasters, artisans, and miners, granting inspiration where respect and prayer are given. Moradin is the god of creation and patron of artisans, especially miners and smiths. He carved the mountains from primordial earth and is the guardian and protector of the hearth and the family. Dwarves from all walks of life follow him. He demands these behaviours from his followers:
-![[Af.webp]]
+**Moradin, The Allhammer** (or All-Hammer) is the lawful good deity of craft, creation, family, and legacy. The Allhammer is patron of craftsmen, blacksmiths, forgemasters, artisans, and miners, granting inspiration where respect and prayer are given. Moradin is the god of creation and patron of artisans, especially miners and smiths. He carved the mountains from primordial earth and is the guardian and protector of the hearth and the family. Dwarves from all walks of life follow him. 
+![[Allhammer.png]]
 ### Divine Focus
 ---
 Alignment: Lawful good

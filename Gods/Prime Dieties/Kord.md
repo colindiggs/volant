@@ -1,5 +1,5 @@
-**Kord, the Stormlord**, is the storm god and the lord of battle and warfare. Kord is the storm god and the lord of battle. He revels in strength, battlefield prowess, and thunder. Fighters and athletes revere him. He is a mercurial god, unbridled and wild, who summons storms over land and sea; those who hope for better weather appease him with prayers and spirited toasts. He gives few commands:
-![[Kord.webp]]
+**Kord, the Stormlord**, is the storm god and the lord of battle and warfare. Kord is the storm god and the lord of battle. He revels in strength, battlefield prowess, and thunder. Fighters and athletes revere him. He is a mercurial god, unbridled and wild, who summons storms over land and sea; those who hope for better weather appease him with prayers and spirited toasts. 
+![[Kord.png]]
 ### Divine Focus
 ---
 Alignment: Chaotic neutral

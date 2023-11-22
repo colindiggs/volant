@@ -1,5 +1,5 @@
-**Zehir, the Cloaked Serpent** is an evil god of poisons, assassins, and darkness. He is the creator of snakes and also of yuan-ti but most of them were annihilated during the Calamity, and those who survived are in self-induced stasis or hunted by the followers of the Spider Queen and the Crawling King. Zehir is the evil god of darkness, poison, and assassins. Snakes are his favored creation, and the Yuan-Ti revere him above all other gods, offering sacrifices to him in pits full of writhing serpents. He urges his followers to:
-![[CloakedSerpent.webp]]
+**Zehir, the Cloaked Serpent** is an evil god of poisons, assassins, and darkness. He is the creator of snakes and also of yuan-ti but most of them were annihilated during the Calamity, and those who survived are in self-induced stasis or hunted by the followers of the Spider Queen and the Crawling King. Zehir is the evil god of darkness, poison, and assassins. Snakes are his favored creation, and the Yuan-Ti revere him above all other gods, offering sacrifices to him in pits full of writhing serpents.
+![[Zehir.png]]
 ### Divine Focus
 ---
 Alignment: Chaotic evil

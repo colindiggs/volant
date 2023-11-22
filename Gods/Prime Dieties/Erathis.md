@@ -1,7 +1,5 @@
-
-
-Erathis, the Lawbearer, is the goddess of civilization and laws. Erathis is the god of civilization. She is the muse of great invention, founder of cities, and author of laws. Rulers, judges, pioneers, and devoted citizens revere her, and her temples hold prominent places in most of the cities of Terras. Her laws are many, but their purpose is straightforward:
-![[Law.webp]]
+**Erathis, the Lawbearer**, is the goddess of civilization and laws. Erathis is the god of civilization. She is the muse of great invention, founder of cities, and author of laws. Rulers, judges, pioneers, and devoted citizens revere her, and her temples hold prominent places in most of the cities of Terras. 
+![[Erathis.png]]
 ### Divine Focus
 ---
 Alignment: Lawful neutral
